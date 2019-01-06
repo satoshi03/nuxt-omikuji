@@ -2,6 +2,8 @@
 
 > Browser based Omikuji in JavaScript with NuxtJS.
 
+![Demo](https://media.giphy.com/media/2WH6BaDN6YYM9UR7Lm/giphy.gif)
+
 ## Build Setup
 
 ``` bash
